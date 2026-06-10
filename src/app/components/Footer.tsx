@@ -49,7 +49,7 @@ export function Footer() {
 
             <a href="#hero" className="flex items-center group">
               <img
-                src={`${import.meta.env.BASE_URL}/images/arr_logo.svg`}
+                src={`/images/arr_logo.svg`}
                 alt="АРР Медиа - креатив, дизайн, ивент"
                 className="h-10 md:h-12 w-auto object-contain"
               />
